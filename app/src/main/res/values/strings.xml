@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">平顶山学院</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <drawable name="library_normal">#ffffff</drawable>
+    <drawable name="library_pressed">#f9f9f9</drawable>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="transition_goods_img" translatable="false">transition_goods_img</string>
+    <string name="transition_lost_img" translatable="false">transition_goods_img</string>
+    <string name="transition_love_img" translatable="false">transition_love_img</string>
+    <string name="transition_pictures_img" translatable="false">transition_pictures_img</string>
+    <string name="login_phone_register"><u>注册帐号</u></string>
+    <string name="login_phone_remember"><u>忘记密码?</u></string>
+    <string name="register_yhxy"><u>《用户协议》</u></string>
+
+    <string name="title_default">刘正风灭门</string>
+    <string name="author_default">金庸</string>
+    <string name="content_default"><p>刘正风道：“在下一生之中，从未见过魔教教主东方不败一面，所谓勾结，所谓阴谋，却是从何说起？”</p><p>费彬侧头瞧着三师兄陆柏，等他说话。陆柏细声细语的道：“刘师兄，这话恐怕有些不尽不实了。魔教中有一位护法长老，名字叫作曲洋的，不知刘师兄是否相识？”</p><p>刘正风本来十分镇定，但听到他提起“曲洋”二字，登时变色，口唇紧闭，并不答话。</p><p>那胖子丁勉自进厅后从未出过一句声，这时突然厉声问道：“你识不识得曲洋？”他话声洪亮之极，这七</p></string>
+    <string name="footer_deafault">全文完 共%1$d字</string>
+    <string name="left_collect">我的收藏</string>
+    <string name="left_setting">阅读设置</string>
+    <string name="left_zan">给个好评</string>
+    <string name="right_collect">收藏</string>
+    <string name="right_share">分享</string>
+    <string name="right_before">前一天</string>
+    <string name="right_random">随机</string>
+    <string name="right_next">后一天</string>
+    <string name="right_today">今日</string>
+    <string name="collect_success">收藏成功</string>
+    <string name="uncollect_success">取消收藏</string>
+    <string name="setting_text_size">字号</string>
+    <string name="setting_background">背景</string>
+    <string name="setting_night">夜间</string>
+    <string name="text_size_small">小</string>
+    <string name="text_size_middle">中</string>
+    <string name="text_size_large">大</string>
+    <string name="not_collect">还没有收藏文章</string>
+    <string name="collect_title_default">在澄澈明净的天空下</string>
+    <string name="collect_author_default">舒婷</string>
+
+</resources>
